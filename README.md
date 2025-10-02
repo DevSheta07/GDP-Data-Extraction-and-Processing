@@ -12,3 +12,12 @@ This project extracts, cleans, and organizes GDP data from raw sources such as t
 - Python
 - Pandas
 - NumPy
+
+## How to Use
+
+Follow these steps to run the GDP Data Extraction and Processing project:
+
+1. **Clone the repository**  
+   First, make a local copy of the project repository on your machine.
+   git clone <repository_url>
+
