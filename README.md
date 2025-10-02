@@ -33,7 +33,10 @@ Follow these steps to run the GDP Data Extraction and Processing notebook:
    - If your notebook saves results to a file (e.g., `Largest_economies.csv`), you can check that file in the project folder.
 
 4. **Install dependencies (if needed)**  
-   Ensure the required Python libraries are installed: pip install pandas numpy
+   Ensure the required Python libraries are installed:
+   ```
+   pip install pandas numpy
+   ```
 
 
 
